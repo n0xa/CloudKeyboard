@@ -1,0 +1,8 @@
+device:Electron
+win:R
+kb:xterm
+sleep:2
+kb:uname -a
+kb:id
+sleep:15
+ctl:d

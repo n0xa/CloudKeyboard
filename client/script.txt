@@ -1,0 +1,4 @@
+device:Electron
+win:R
+kb:notepad
+kb:Cloud Keyboard!
